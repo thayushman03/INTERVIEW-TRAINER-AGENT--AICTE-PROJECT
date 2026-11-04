@@ -31,8 +31,3 @@ logs/
 *.swp
 .DS_Store
 Thumbs.db
-
-# Presentation files - keep local only
-*.pptx
-*.ppt
-
